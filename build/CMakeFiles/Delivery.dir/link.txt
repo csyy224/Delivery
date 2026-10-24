@@ -1,0 +1,3 @@
+C:\Users\64993\cmake-4.3.2-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\Delivery.dir/objects.a
+C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\ar.exe qc CMakeFiles\Delivery.dir/objects.a @CMakeFiles\Delivery.dir\objects1.rsp
+C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Delivery.dir/objects.a -Wl,--no-whole-archive -o Delivery.exe -Wl,--out-implib,libDelivery.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Delivery.dir\linkLibs.rsp

@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/Users/64993/Desktop/delivery/build",
+  "command": "C:\\PROGRA~1\\X86_64~1.0-R\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Delivery.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Delivery.dir\\Delivery\\src\\main.cpp.obj -c C:\\Users\\64993\\Desktop\\delivery\\Delivery\\src\\main.cpp",
+  "file": "C:/Users/64993/Desktop/delivery/Delivery/src/main.cpp",
+  "output": "CMakeFiles/Delivery.dir/Delivery/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/64993/Desktop/delivery/build",
+  "command": "C:\\PROGRA~1\\X86_64~1.0-R\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Delivery.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Delivery.dir\\Delivery\\src\\DataReader.cpp.obj -c C:\\Users\\64993\\Desktop\\delivery\\Delivery\\src\\DataReader.cpp",
+  "file": "C:/Users/64993/Desktop/delivery/Delivery/src/DataReader.cpp",
+  "output": "CMakeFiles/Delivery.dir/Delivery/src/DataReader.cpp.obj"
+},
+{
+  "directory": "C:/Users/64993/Desktop/delivery/build",
+  "command": "C:\\PROGRA~1\\X86_64~1.0-R\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Delivery.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Delivery.dir\\Delivery\\src\\DeliveryScheduler.cpp.obj -c C:\\Users\\64993\\Desktop\\delivery\\Delivery\\src\\DeliveryScheduler.cpp",
+  "file": "C:/Users/64993/Desktop/delivery/Delivery/src/DeliveryScheduler.cpp",
+  "output": "CMakeFiles/Delivery.dir/Delivery/src/DeliveryScheduler.cpp.obj"
+},
+{
+  "directory": "C:/Users/64993/Desktop/delivery/build",
+  "command": "C:\\PROGRA~1\\X86_64~1.0-R\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Delivery.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Delivery.dir\\Delivery\\src\\Graph.cpp.obj -c C:\\Users\\64993\\Desktop\\delivery\\Delivery\\src\\Graph.cpp",
+  "file": "C:/Users/64993/Desktop/delivery/Delivery/src/Graph.cpp",
+  "output": "CMakeFiles/Delivery.dir/Delivery/src/Graph.cpp.obj"
+},
+{
+  "directory": "C:/Users/64993/Desktop/delivery/build",
+  "command": "C:\\PROGRA~1\\X86_64~1.0-R\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Delivery.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Delivery.dir\\Delivery\\src\\Task1.cpp.obj -c C:\\Users\\64993\\Desktop\\delivery\\Delivery\\src\\Task1.cpp",
+  "file": "C:/Users/64993/Desktop/delivery/Delivery/src/Task1.cpp",
+  "output": "CMakeFiles/Delivery.dir/Delivery/src/Task1.cpp.obj"
+},
+{
+  "directory": "C:/Users/64993/Desktop/delivery/build",
+  "command": "C:\\PROGRA~1\\X86_64~1.0-R\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Delivery.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Delivery.dir\\Delivery\\src\\Task2.cpp.obj -c C:\\Users\\64993\\Desktop\\delivery\\Delivery\\src\\Task2.cpp",
+  "file": "C:/Users/64993/Desktop/delivery/Delivery/src/Task2.cpp",
+  "output": "CMakeFiles/Delivery.dir/Delivery/src/Task2.cpp.obj"
+},
+{
+  "directory": "C:/Users/64993/Desktop/delivery/build",
+  "command": "C:\\PROGRA~1\\X86_64~1.0-R\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Delivery.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Delivery.dir\\Delivery\\src\\Task3.cpp.obj -c C:\\Users\\64993\\Desktop\\delivery\\Delivery\\src\\Task3.cpp",
+  "file": "C:/Users/64993/Desktop/delivery/Delivery/src/Task3.cpp",
+  "output": "CMakeFiles/Delivery.dir/Delivery/src/Task3.cpp.obj"
+},
+{
+  "directory": "C:/Users/64993/Desktop/delivery/build",
+  "command": "C:\\PROGRA~1\\X86_64~1.0-R\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Delivery.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Delivery.dir\\Delivery\\src\\Task4.cpp.obj -c C:\\Users\\64993\\Desktop\\delivery\\Delivery\\src\\Task4.cpp",
+  "file": "C:/Users/64993/Desktop/delivery/Delivery/src/Task4.cpp",
+  "output": "CMakeFiles/Delivery.dir/Delivery/src/Task4.cpp.obj"
+},
+{
+  "directory": "C:/Users/64993/Desktop/delivery/build",
+  "command": "C:\\PROGRA~1\\X86_64~1.0-R\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Delivery.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Delivery.dir\\Delivery\\src\\Task5.cpp.obj -c C:\\Users\\64993\\Desktop\\delivery\\Delivery\\src\\Task5.cpp",
+  "file": "C:/Users/64993/Desktop/delivery/Delivery/src/Task5.cpp",
+  "output": "CMakeFiles/Delivery.dir/Delivery/src/Task5.cpp.obj"
+},
+{
+  "directory": "C:/Users/64993/Desktop/delivery/build",
+  "command": "C:\\PROGRA~1\\X86_64~1.0-R\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Delivery.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Delivery.dir\\Delivery\\src\\Task6.cpp.obj -c C:\\Users\\64993\\Desktop\\delivery\\Delivery\\src\\Task6.cpp",
+  "file": "C:/Users/64993/Desktop/delivery/Delivery/src/Task6.cpp",
+  "output": "CMakeFiles/Delivery.dir/Delivery/src/Task6.cpp.obj"
+},
+{
+  "directory": "C:/Users/64993/Desktop/delivery/build",
+  "command": "C:\\PROGRA~1\\X86_64~1.0-R\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Delivery.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Delivery.dir\\Delivery\\src\\TSP.cpp.obj -c C:\\Users\\64993\\Desktop\\delivery\\Delivery\\src\\TSP.cpp",
+  "file": "C:/Users/64993/Desktop/delivery/Delivery/src/TSP.cpp",
+  "output": "CMakeFiles/Delivery.dir/Delivery/src/TSP.cpp.obj"
+},
+{
+  "directory": "C:/Users/64993/Desktop/delivery/build",
+  "command": "C:\\PROGRA~1\\X86_64~1.0-R\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/Delivery.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Delivery.dir\\Delivery\\src\\Visualizer.cpp.obj -c C:\\Users\\64993\\Desktop\\delivery\\Delivery\\src\\Visualizer.cpp",
+  "file": "C:/Users/64993/Desktop/delivery/Delivery/src/Visualizer.cpp",
+  "output": "CMakeFiles/Delivery.dir/Delivery/src/Visualizer.cpp.obj"
+}
+]
